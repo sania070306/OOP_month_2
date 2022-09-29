@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a433359e-523a-4068-937e-533b206d95ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Saniia_22-3_hw6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saniia_22-3_hw7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +44,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Saniia_22-3_hw6">
-    <configuration name="Saniia_22-3_hw4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Sania_22-3_hw7">
+    <configuration name="Sania_22-3_hw7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2_month" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +58,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saniia_22-3_hw4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sania_22-3_hw7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,28 +111,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2_month" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Casino.hw5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Casino.hw5/functional.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="jhdf kj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2_month" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,13 +133,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="olympiada1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2_month" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/olympiada1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sania_22-3_hw7" />
+        <item itemvalue="Python.olympiada1" />
         <item itemvalue="Python.Saniia_22-3_hw6" />
         <item itemvalue="Python.jhdf kj" />
         <item itemvalue="Python.Start_the_game" />
-        <item itemvalue="Python.functional" />
-        <item itemvalue="Python.Saniia_22-3_hw4" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,10 @@
       <workItem from="1663756109327" duration="3659000" />
       <workItem from="1663760312248" duration="61000" />
       <workItem from="1663998092709" duration="19712000" />
-      <workItem from="1664064713059" duration="1702000" />
+      <workItem from="1664064713059" duration="3114000" />
+      <workItem from="1664167632043" duration="775000" />
+      <workItem from="1664168432462" duration="3543000" />
+      <workItem from="1664361301246" duration="23112000" />
     </task>
     <servers />
   </component>
@@ -221,7 +225,9 @@
     <SUITE FILE_PATH="coverage/2_month$jhdf_kj.coverage" NAME="jhdf kj Coverage Results" MODIFIED="1664065813562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2_month$Saniia_22_3_hw3.coverage" NAME="Saniia_22-3_hw3 Coverage Results" MODIFIED="1663128904209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2_month$asel1.coverage" NAME="asel1 Coverage Results" MODIFIED="1663419327412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2_month$Sania_22_3_hw7.coverage" NAME="Sania_22-3_hw7 Coverage Results" MODIFIED="1664443248503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2_month$Saniia_22_3_hw6.coverage" NAME="Saniia_22-3_hw6 Coverage Results" MODIFIED="1664066017152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2_month$olympiada1.coverage" NAME="olympiada1 Coverage Results" MODIFIED="1664436583494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2_month$Saniia_22_3_hw2.coverage" NAME="Saniia_22-3_hw2 Coverage Results" MODIFIED="1663126974263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2_month$Start_the_game.coverage" NAME="Start_the_game Coverage Results" MODIFIED="1664008759904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Casino.hw5" />
     <SUITE FILE_PATH="coverage/2_month$Saniia_22_3_hw4.coverage" NAME="Saniia_22-3_hw4 Coverage Results" MODIFIED="1663498608795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
