@@ -14,10 +14,10 @@ def binary_search(val, a):
             resultOK=True
             pos=middle
         else:
-            if val>a[middle]:
-                first=middle+1
+            if val > a[middle]:
+                last = middle - 1
             else:
-                last=middle-1
+                first = middle + 1
     return resultOK, pos
 
 
